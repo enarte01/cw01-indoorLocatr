@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394260168427",
+    "firebase_url": "https://indoorlocatr.firebaseio.com",
+    "project_id": "indoorlocatr",
+    "storage_bucket": "indoorlocatr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394260168427:android:d3e3f430e11f423d",
+        "android_client_info": {
+          "package_name": "com.mciot.cw.enarte01.indoorlocatr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394260168427-5aohsjpsmgf608glbvirb421i090megi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mciot.cw.enarte01.indoorlocatr",
+            "certificate_hash": "32dc1357248bc3ebbdf278b05f148c262f4c6b0d"
+          }
+        },
+        {
+          "client_id": "394260168427-g5dbmrd6ltoo72tqbuftncr70hua28a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgh4AraKIrGu9xU9BwJrPEWvsK6aFZbRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394260168427-g5dbmrd6ltoo72tqbuftncr70hua28a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

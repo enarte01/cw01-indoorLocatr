@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IndoorLocatr</string>
+    <string name="textViewId"></string>
+    <string name="buttonID"></string>
 </resources>
