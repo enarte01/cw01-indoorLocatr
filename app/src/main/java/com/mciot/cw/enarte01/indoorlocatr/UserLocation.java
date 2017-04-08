@@ -1,6 +1,8 @@
 package com.mciot.cw.enarte01.indoorlocatr;
 
-
+/**
+ * Created by enarte01 on 04/04/2017.
+ */
 
 public class UserLocation {
 
@@ -12,6 +14,7 @@ public class UserLocation {
     public UserLocation() {
     }
 
+    //constructor to initialize user location object
     public UserLocation(double latitude, double longitude,long time) {
 
         this.latitude = latitude;

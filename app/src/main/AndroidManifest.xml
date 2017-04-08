@@ -45,8 +45,6 @@
                 android:value="@integer/google_play_services_version" />
         </activity>
 
-        <service android:name=".GFTransitionIntentService" />
-
         <meta-data android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyCchOX5wXimNEW-5ExvTKC19pP5D8y5Ua8" />
         <service android:name="com.indooratlas.android.sdk.IALocationService"

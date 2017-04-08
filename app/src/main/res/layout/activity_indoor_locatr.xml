@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:padding="24dp"
         android:layout_gravity="center"
-        android:text="Text here and where is the Id bit" />
+        android:text="Location Coordinates" />
 
 
 
@@ -20,13 +20,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:layout_gravity="center">
-        <Button
-            android:id="@+id/buttonID"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Click Here"
-            android:layout_gravity="center"
-            />
+
 
     </LinearLayout>
 
